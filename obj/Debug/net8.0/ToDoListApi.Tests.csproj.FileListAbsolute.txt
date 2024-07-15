@@ -112,3 +112,4 @@
 /Users/timothyye/Projects/ToDoListApi.Tests/obj/Debug/net8.0/ToDoListApi.Tests.pdb
 /Users/timothyye/Projects/ToDoListApi.Tests/obj/Debug/net8.0/ToDoListApi.Tests.genruntimeconfig.cache
 /Users/timothyye/Projects/ToDoListApi.Tests/obj/Debug/net8.0/ref/ToDoListApi.Tests.dll
+/Users/timothyye/Projects/ToDoListApi.Tests/obj/Debug/net8.0/ToDoListApi.Tests.sourcelink.json
